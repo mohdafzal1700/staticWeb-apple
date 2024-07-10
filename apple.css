@@ -1,0 +1,289 @@
+.header1{
+   background-color:#29292a;
+   display: flex;
+   font-family:Roboto, sans-serif;
+   flex-direction: row;
+   height: 44px;
+   color: aliceblue;
+  
+  align-items: center;
+  
+}
+.edu,.slah,.exi{
+    font-size: 12px;
+    margin-left: 9px;
+}
+.edu{
+    margin-left: 230px;
+}
+.slah{
+    color: rgb(109, 110, 111);
+    font-size: 14px;
+}
+.header2{
+    background-color:black;
+    display: flex;
+    font-family:Roboto, sans-serif;
+    flex-direction: row;
+    height: 44px;
+    color: rgb(181, 185, 188);
+    
+   align-items: center;
+   font-size: 11px;
+   justify-content: space-between;
+   
+   
+   
+}
+body{
+    margin: 0%;
+    height: 3000px;
+    transition: 1.15s;
+}
+
+
+.logo,.search{
+    height: 20px;
+}
+.pic1{
+    height:24px;
+    margin-right: 230px;
+}
+.logo{
+    margin-left: 229px;
+}
+.events{
+    font-family: Roboto, sans-serif;
+   
+    font-size: 22px;
+    display: flex;
+   align-items: center;
+   height:44px;
+  background-color: black;
+  font-weight: 500;
+  position: sticky;
+  top: 0;
+  border-bottom-width: 0.25px;
+    
+    border-bottom-style:solid;
+
+ border-bottom-color: rgb(88, 88, 91);
+  z-index: 300;
+ 
+}
+.eventsdiv{
+    margin-right: 220px;
+    color:white;
+    margin-left: 229px;
+
+}
+
+.preview{
+    display:flex;
+  flex-direction: column;
+    margin-bottom: 10px;
+    
+    
+
+
+}.video{
+    left:500px ;
+    
+}
+.imagepre{
+    border-radius: 30px;
+}
+
+.icon{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    padding-bottom: 250px;
+    position: relative;
+    
+
+}
+.contant{
+   display: flex;
+   flex-direction: column;
+   position: absolute;
+   color: white;
+   text-align: center;
+   align-items: center;
+   bottom: 0;
+   justify-content: center;
+   background-color: black;
+   left: 470px;
+   
+}
+.contantim{
+    height: 50px;
+    bottom: 100px;
+    
+  
+    
+   
+}
+.flexbox{
+  margin-bottom: 20px;
+}
+
+
+.contxt{
+    color:white;
+    text-align: center;
+    width: 530px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+
+    
+}
+.text{
+    font-size: 54px;
+    font-family: Roboto, sans-serif;
+  
+}
+
+
+
+.flexbox{
+    display: flex;
+    flex-direction: row;
+}
+.bluecnt{
+    font-family: Roboto, sans-serif;
+    color: rgb(15, 97, 221);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: -120px;
+    font-size:20px;
+
+  
+}
+.bluecnt1{
+    margin-right: 40px;
+}
+.bluebut{
+    height: 20px;
+    margin-bottom: -2px;
+}
+.bluecnt1:hover{
+    text-decoration: underline;
+    
+}
+.bluecnt2:hover{
+    text-decoration: underline;
+}
+.here{
+    font-family: Roboto, sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    
+
+
+}
+.preview2pic{
+    border-radius: 50px;
+}
+.preview2{
+    display: flex;
+    background-color: rgb(238, 244, 244);
+   margin-top:0;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+.preview21{
+display: flex;
+border-radius: 30px;
+background-color:white;
+flex-direction: row;
+margin-left: 200px;
+margin-right: 200px;
+margin-bottom: 100px;
+}
+.imagepreview{
+    border-radius: 30px;
+
+}
+.shop{
+ font-weight: 400;
+ font-size: larger;
+}
+    
+.preview21:hover{
+    box-shadow:3px 3px 5px
+    rgba(0, 0, 0, 5.15);
+    transition:0.5s;
+}
+
+ .footer2{
+   
+    
+    background-color: rgb(228, 232, 232);
+ }
+
+.p1,.p2,.p3{
+    font-family: Roboto, sans-serif;
+    margin-left: 30px;
+}
+
+    
+
+.p1{
+  font-size: 32px;
+  font-weight: 500;
+}
+.p2{
+    font-size: 20px;
+    width: 500px;
+    margin-right: 100px;
+    text-align: left;
+    line-height: 30px;
+}
+.p3{
+    color: #1313f7;
+
+}
+.p3:hover{
+    text-decoration: underline;
+}
+.f1,.f2,.f3,.f4{
+    display: inline-block;
+    justify-content: center;
+    line-height: 20px;
+    text-align: left;
+    margin-left: 30px;
+    vertical-align: top;
+    margin-top: 30px;
+    line-height: 20px;
+    
+}.f2{
+    vertical-align: top;
+}
+.f1{
+    vertical-align: top;
+    margin-left: 400px;
+}hr{
+    margin-right: 200px;
+    margin-left: 2px;
+}
+.end{
+    font-size: small;
+    margin-left: 300px;
+    color: rgb(145, 146, 146);
+   
+}
+.end1,.end2{
+  margin-bottom: 10px;
+}
+
